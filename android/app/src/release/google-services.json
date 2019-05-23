@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "363270357772",
+    "firebase_url": "https://ambleon-91c61.firebaseio.com",
+    "project_id": "ambleon-91c61",
+    "storage_bucket": "ambleon-91c61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363270357772:android:0467dff6b9dc2286",
+        "android_client_info": {
+          "package_name": "com.ambleon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363270357772-3tietojrbmtcnst0mljhf1ptf1l6f52e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ambleon",
+            "certificate_hash": "bfd82b19ca71f8ee71e6b3251396e7c3795bdf86"
+          }
+        },
+        {
+          "client_id": "363270357772-bfdubuvl3a2kc3i4ut2krgca0k9gfjct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ambleon",
+            "certificate_hash": "e227335fa07397a8e0b510e7d7bda7fda70844f7"
+          }
+        },
+        {
+          "client_id": "363270357772-1h8bokotce3mj1o4j18f23sknmvrs3ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7UuhmjH-VpoBhlq5bpwy8DXjXyfXug60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363270357772-1h8bokotce3mj1o4j18f23sknmvrs3ot.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "363270357772-s90d0mo17kjddvbs236b5ep5dkojv3l0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ambleon.AmbleOn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

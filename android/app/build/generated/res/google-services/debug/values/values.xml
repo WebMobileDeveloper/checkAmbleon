@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">363270357772-1h8bokotce3mj1o4j18f23sknmvrs3ot.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ambleon-91c61.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">363270357772</string>
+    <string name="google_api_key" translatable="false">AIzaSyB7UuhmjH-VpoBhlq5bpwy8DXjXyfXug60</string>
+    <string name="google_app_id" translatable="false">1:363270357772:android:0467dff6b9dc2286</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB7UuhmjH-VpoBhlq5bpwy8DXjXyfXug60</string>
+    <string name="google_storage_bucket" translatable="false">ambleon-91c61.appspot.com</string>
+    <string name="project_id" translatable="false">ambleon-91c61</string>
+</resources>
